@@ -1,0 +1,26 @@
+{
+  "name": "ftw-module-test-1",
+  "version": "1.0.0",
+  "description": "Hey there. You should receive a link to the test via Slack. Fill out all files.",
+  "main": "js-1.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderschool/ftw-module-test-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderschool/ftw-module-test-1/issues"
+  },
+  "homepage": "https://github.com/coderschool/ftw-module-test-1#readme",
+  "dependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
